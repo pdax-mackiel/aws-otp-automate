@@ -6,13 +6,11 @@ npm install
 
 ## Usage
 
-replace
+replace in index.js
 
 ```bash
 467873314609:mfa/mackiel.ramos
 ```
-
-in index.js
 
 then run
 
